@@ -1,0 +1,233 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: 0;
+}
+.div-img{
+    position:static;
+    top:20%;
+    left: 50%;
+}
+h3 {
+    color: black;
+    text-align: start;
+    padding: 32px;
+    font-size: 25px;
+    font-family: verdana;
+    
+}
+h1{
+    color:black;
+}
+h2{
+    color:black;
+}
+.header-menu{
+    background-color: #ac0960;
+    display: flex;
+    position: fixed;
+    width: 100%;
+    padding: 8px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    height: 10px;
+    
+}
+.header-menu nav{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+.lista-menu{
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+    list-style: none;
+    align-items: center;
+}
+.lista-menu li>a{
+    color:white;
+    font-size: 18px;
+    text-decoration: inherit;
+}
+.principal{
+    display: flex;
+    background-color:rgb(207, 180, 180);
+    height: 100vh;
+
+}
+.subcontainer-principal{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+}
+.texto-1{
+    padding: 12px;
+    
+}
+.texto-1{
+    columns: #4b4b4b;;
+}
+.principal-2{
+    display: flex;
+    background-color:#1b9b5f;
+    height: 100vh;
+    width: 100%;
+}
+.subcontainer-principal-2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+}
+.subcontainer-principal-2 li>a{
+    font-size: 18px;
+    text-decoration: inherit;
+}
+.lista-item{
+    padding: 32px;
+}
+.lista-item ul li{
+   margin-bottom: 52px;
+}
+.principal-3{
+    display: flex;
+    background-color:rgb(207, 180, 180);
+    height: 100vh;
+    width: 100%;
+}
+.subcontainer-principal-3{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.subcontainer-principal-3 li>a{
+    font-size: 18px;
+    text-decoration: inherit;
+}
+.footer{
+    background-color: #ac0960;
+    display: flex;
+    align-items: center;
+    height: 30vh;
+}
+.contato{
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 900px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100%;
+}
+.lista-footer{
+    color: black;
+    font-weight: 700;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+}
+.estilo-icon{
+    font-size: 22px;
+    margin-right: 10px;
+}
+.links{
+    color: black;
+    text-decoration: none;
+}
+.destaque-ciclo-formativo{
+    color:#ffff99;
+
+}
+.destaque-graduação{
+    color:#ffff99;
+}
+.destaque-ensino-médio{
+    color:#ffff99;
+}
+.destaque-voluntária-elastempoder{
+    color:#7e0949;
+}
+.destaque-voluntária-IEEE{
+    color:#7e0949;
+}
+.destaque-voluntária-TITAN{
+    color:#7e0949;
+}
+.destaque-1{
+    color:black;
+}
+.destaque-2{
+    color: black;
+}
+.destaque-3{
+    color: black;
+}
+.destaque-4{
+    color:black;
+}
+.destaque-5{
+    color: black;
+}
+.destaque-6{
+    color: black;
+}
+.tamanho-letra-inicial{
+    font-size: 20px;
+}
+.tamanho-letra-subinicial{
+    font-size: 18px;
+}
+.tamanho-letra-subsubinicial{
+    font-size: 16;
+}
+.tamanho-letra-1{
+    font-size: 16px;
+}
+.tamanho-letra-2{
+    font-size: 16px;
+}
+.tamanho-letra-3{
+    font-size: 16px;
+}
+.tamanho-letra-4{
+    font-size: 16px;
+}
+.tamanho-letra-5{
+    font-size: 16px;
+}
+.tamanho-letra-6{
+    font-size: 16px;
+}
+
+.estilo-letra-inicial{
+    font-family:georgia;
+}
+.estilo-letra-subinicial{
+    font-family: georgia;
+}
+.estilo-letra-subsubinicial{
+    font-family:verdana;
+}
+.estilo-letra-1{
+    font-family: verdana;
+}
+.estilo-letra-2{
+    font-family: Verdana;
+}
+.estilo-letra-3{
+    font-family: Verdana;
+}
+.estilo-letra-4{
+    font-family: verdana;
+}
+.estilo-letra-5{
+    font-family: verdana;
+}
+.estilo-letra-6{
+    font-family: verdana;
+}
