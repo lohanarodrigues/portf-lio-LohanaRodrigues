@@ -1,0 +1,35 @@
+2024-01-16 00:22:36,238 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2024-01-16 00:22:36,378 [    140]   INFO -        #com.intellij.idea.Main - IDE: PyCharm (build #PY-183.6156.16, 09 Jul 2019 15:36) 
+2024-01-16 00:22:36,378 [    140]   INFO -        #com.intellij.idea.Main - OS: Windows 7 (6.1, amd64) 
+2024-01-16 00:22:36,379 [    141]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_152-release-1343-b28 (JetBrains s.r.o) 
+2024-01-16 00:22:36,379 [    141]   INFO -        #com.intellij.idea.Main - JVM: 25.152-b28 (OpenJDK 64-Bit Server VM) 
+2024-01-16 00:22:36,412 [    174]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -Djdk.http.auth.tunneling.disabledSchemes="" -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Djb.vmOptionsFile=C:\Program Files\JetBrains\PyCharm 2018.3.7\bin\pycharm64.exe.vmoptions -Didea.platform.prefix=Python -Dide.native.launcher=true -Didea.paths.selector=PyCharm2018.3 -XX:ErrorFile=C:\Users\Lohana\java_error_in_pycharm_%p.log -XX:HeapDumpPath=C:\Users\Lohana\java_error_in_pycharm.hprof 
+2024-01-16 00:22:36,413 [    175]   INFO -        #com.intellij.idea.Main - ext: C:\Program Files\JetBrains\PyCharm 2018.3.7\jre64\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2024-01-16 00:22:36,413 [    175]   INFO -        #com.intellij.idea.Main - charsets: JNU=Cp1252 file=Cp1252 
+2024-01-16 00:22:36,505 [    267]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 91 ms 
+2024-01-16 00:22:36,525 [    287]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2024-01-16 00:22:37,335 [   1097]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (IDE-managed HiDPI) 
+2024-01-16 00:22:37,379 [   1141]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2024-01-16 00:23:04,198 [  27960]   INFO - m.intellij.ui.mac.touchbar.NST - OS doesn't support touchbar, skip nst loading 
+2024-01-16 00:23:15,828 [  39590]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor javaee-specific.xml 
+2024-01-16 00:23:15,843 [  39605]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor java-specific.xml 
+2024-01-16 00:23:17,337 [  41099]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor js-nashorn-support.xml 
+2024-01-16 00:33:18,482 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2024-01-16 00:33:18,779 [    297]   INFO -        #com.intellij.idea.Main - IDE: PyCharm (build #PY-183.6156.16, 09 Jul 2019 15:18) 
+2024-01-16 00:33:18,779 [    297]   INFO -        #com.intellij.idea.Main - OS: Windows 7 (6.1, amd64) 
+2024-01-16 00:33:18,779 [    297]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_152-release-1343-b28 (JetBrains s.r.o) 
+2024-01-16 00:33:18,779 [    297]   INFO -        #com.intellij.idea.Main - JVM: 25.152-b28 (OpenJDK 64-Bit Server VM) 
+2024-01-16 00:33:18,872 [    390]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -Djdk.http.auth.tunneling.disabledSchemes="" -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Djb.vmOptionsFile=C:\Program Files\JetBrains\PyCharm 2018.3.7\bin\pycharm64.exe.vmoptions -Didea.platform.prefix=Python -Dide.native.launcher=true -Didea.paths.selector=PyCharm2018.3 -XX:ErrorFile=C:\Users\Lohana\java_error_in_pycharm_%p.log -XX:HeapDumpPath=C:\Users\Lohana\java_error_in_pycharm.hprof 
+2024-01-16 00:33:18,872 [    390]   INFO -        #com.intellij.idea.Main - ext: C:\Program Files\JetBrains\PyCharm 2018.3.7\jre64\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2024-01-16 00:33:18,872 [    390]   INFO -        #com.intellij.idea.Main - charsets: JNU=Cp1252 file=Cp1252 
+2024-01-16 00:33:18,997 [    515]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 125 ms 
+2024-01-16 00:33:19,028 [    546]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2024-01-16 00:33:20,370 [   1888]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (IDE-managed HiDPI) 
+2024-01-16 00:33:20,401 [   1919]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2024-01-16 00:33:30,635 [  12153]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor java-specific.xml 
+2024-01-16 00:33:30,666 [  12184]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor javaee-specific.xml 
+2024-01-16 00:33:33,303 [  14821]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor js-nashorn-support.xml 
+2024-01-16 00:33:35,377 [  16895]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-java-support.xml 
+2024-01-16 00:33:35,377 [  16895]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-properties-support.xml 
+2024-01-16 00:39:05,192 [ 346710]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2024-01-16 00:39:05,317 [ 346835]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
